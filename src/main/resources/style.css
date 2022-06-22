@@ -1,0 +1,10 @@
+.root{
+    -fx-background-image: url("background.png");
+    -fx-background-position: center;
+    -fx-background-size: cover;
+}
+.label{
+    -fx-text-fill: white;
+    -fx-font-size: 25;
+    -fx-font-weight: bold;
+}
